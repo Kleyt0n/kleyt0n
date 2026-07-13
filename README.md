@@ -1,7 +1,5 @@
 <div align="left">
 
-# Kleyton da Costa
-
 **AI Researcher · Ph.D. Student @ UCL**
 
 [![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](http://kleytoncosta.com/)
