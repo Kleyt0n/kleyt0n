@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Kleyton da Costa
 
@@ -22,10 +22,6 @@ Alongside my doctoral work, I'm an AI Researcher & Engineer at [Holistic AI](htt
 
 <div align="center">
 
-![Kleyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kleyt0n&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kleyt0n&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleyt0n&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
